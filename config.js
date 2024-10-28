@@ -1,8 +1,8 @@
 const nameGirl = 'You';
 const giftUrl = 'https://www.facebook.com/tuquaivatt';
-const eventName = 'Chuyển năng lượng';
-const titleCard = 'Tặng đằng ấy';
-const contentCard = '"Chúc chúng ta luôn hạnh phúc"';
+const eventName = 'Cảm ơn vì tất cả';
+const titleCard = 'Tặng Linh Thối';
+const contentCard = '"Chúc chúng ta luôn hạnh phúc, và mãi mãi bên nhau"';
 
 
 const giftImage = 'IMG_5403.jpg';
