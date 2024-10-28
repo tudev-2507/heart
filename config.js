@@ -1,8 +1,8 @@
 const nameGirl = 'You';
-const giftUrl = 'https://www.facebook.com/pamtrg/';
+const giftUrl = 'https://www.facebook.com/tuquaivatt';
 const eventName = 'Chuyển năng lượng';
 const titleCard = 'Tặng đằng ấy';
-const contentCard = '“Có điều gì Me có thể làm để khiến You cảm thấy tốt hơn không? Chỉ cần nói từ đó.” <3.';
+const contentCard = '"Chúc chúng ta luôn hạnh phúc"';
 
 
 const giftImage = 'hot-girl.png';
