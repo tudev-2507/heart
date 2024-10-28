@@ -5,6 +5,6 @@ const titleCard = 'Tặng đằng ấy';
 const contentCard = '"Chúc chúng ta luôn hạnh phúc"';
 
 
-const giftImage = 'hot-girl.png';
+const giftImage = 'linhthoi.jpg';
 const base64 = '';
 const giftImageBase64 = "data:image/png;base64, " + base64;
